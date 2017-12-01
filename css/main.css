@@ -1,0 +1,25 @@
+
+html,body{
+	height: 100%;
+}
+
+.figure{
+	height:70px;
+	background:   #2cbf54  ;
+	border-bottom: 10px solid   #f92117 ;
+	padding: 0;
+	margin: 0;
+	background-size:;
+	background-position: top center;
+	background-attachment: fixed;
+	position: relative;
+}
+
+.bottomposition{
+	margin-top: 20px;
+	bottom: 0;
+	
+}
+.box{
+	border: 1px solid dotted;
+}
